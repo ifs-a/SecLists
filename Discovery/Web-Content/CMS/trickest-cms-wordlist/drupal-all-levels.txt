@@ -85888,6 +85888,10 @@ core/modules/content_translation/content_translation.services.yml
 modules/content_translation/content_translation.services.yml
 content_translation/content_translation.services.yml
 content_translation.services.yml
+core/modules/content_translation/content_translation.post_update.php
+modules/content_translation/content_translation.post_update.php
+content_translation/content_translation.post_update.php
+content_translation.post_update.php
 core/modules/content_translation/tests/src/Unit/Menu/ContentTranslationLocalTasksTest.php
 modules/content_translation/tests/src/Unit/Menu/ContentTranslationLocalTasksTest.php
 content_translation/tests/src/Unit/Menu/ContentTranslationLocalTasksTest.php
@@ -85955,6 +85959,13 @@ tests/src/Functional/ContentTranslationEntityBundleUITest.php
 src/Functional/ContentTranslationEntityBundleUITest.php
 Functional/ContentTranslationEntityBundleUITest.php
 ContentTranslationEntityBundleUITest.php
+core/modules/content_translation/tests/src/Functional/ContentLanguageBaseFieldSyncWidgetTest.php
+modules/content_translation/tests/src/Functional/ContentLanguageBaseFieldSyncWidgetTest.php
+content_translation/tests/src/Functional/ContentLanguageBaseFieldSyncWidgetTest.php
+tests/src/Functional/ContentLanguageBaseFieldSyncWidgetTest.php
+src/Functional/ContentLanguageBaseFieldSyncWidgetTest.php
+Functional/ContentLanguageBaseFieldSyncWidgetTest.php
+ContentLanguageBaseFieldSyncWidgetTest.php
 core/modules/content_translation/tests/src/Functional/ContentTranslationSyncImageTest.php
 modules/content_translation/tests/src/Functional/ContentTranslationSyncImageTest.php
 content_translation/tests/src/Functional/ContentTranslationSyncImageTest.php
